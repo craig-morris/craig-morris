@@ -1,6 +1,7 @@
 ### 🚀 Featured Project
 
-[![Office-365-eClean Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=craig-morris&repo=Office-365-eClean&theme=radical)](https://github.com/craig-morris/Office-365-eClean)
+**[Office-365-eClean](https://github.com/craig-morris/Office-365-eClean)**
+*Enterprise email validation & Microsoft 365 intelligence toolkit.*
 
 
 <div align="center">
