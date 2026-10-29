@@ -1,7 +1,4 @@
-### 🚀 Featured Project
-
-**[Office-365-eClean](https://github.com/craig-morris/Office-365-eClean)**
-*Enterprise email validation & Microsoft 365 intelligence toolkit.*
+[![Office-365-eClean Repo Card](https://githubcard.com/craig-morris/Office-365-eClean.svg)](https://github.com/craig-morris/Office-365-eClean)
 
 
 <div align="center">
