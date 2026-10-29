@@ -1,4 +1,4 @@
-[![Office-365-eClean Repo Card](https://githubcard.com/craig-morris/Office-365-eClean.svg)](https://github.com/craig-morris/Office-365-eClean)
+[![Office-365-eClean Repo Card](https://devcard.pavegy.workers.dev/api/pin?username=craig-morris&repo=Office-365-eClean&theme=radical)](https://github.com/craig-morris/Office-365-eClean)
 
 
 <div align="center">
