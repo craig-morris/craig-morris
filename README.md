@@ -1,4 +1,15 @@
+### 🚀 Featured Project
+
 [![Office-365-eClean Repo Card](https://devcard.pavegy.workers.dev/api/pin?username=craig-morris&repo=Office-365-eClean&theme=radical)](https://github.com/craig-morris/Office-365-eClean)
+
+**Office-365-eClean** — An enterprise email validation and Microsoft 365 intelligence toolkit. Features DNS intel, risk analysis, and SMTP testing. Built to streamline security auditing and domain verification.
+
+<a href="https://github.com/craig-morris/Office-365-eClean">
+  <img src="https://img.shields.io/badge/Stars-5.5k-yellow?style=for-the-badge&logo=github" alt="5.5k Stars">
+</a>
+<a href="https://github.com/craig-morris/Office-365-eClean">
+  <img src="https://img.shields.io/badge/Forks-50-blue?style=for-the-badge&logo=git" alt="50 Forks">
+</a>
 
 
 <div align="center">
