@@ -1,72 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**craig-morris/craig-morris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm ScriptKid
 
-Here are some ideas to get you started:
+**Automation • Reverse Engineering • Scripting**
+*You can never know the limit of a product if you simply follow the author's manual.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+QnvaQujBnzNk2Fh)
+[![Status](https://img.shields.io/badge/Status-Active-16a34a?style=for-the-badge)]()
+[![Disclaimer](https://img.shields.io/badge/Disclaimer-Educational_Only-ef4444?style=for-the-badge)]()
 
-# ⚠️ Before Opening an Issue or Contacting Me - TG Below
+</div>
 
-## General Rules
+---
 
-* If the project is working, **don't touch it.**
-* Always make backups before making changes.
-* Test in a development environment before deploying to production.
-* Read the documentation and existing issues before opening a new one.
+### 🛠 Tech Stack & Tools
 
-## Issues & Support
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
 
-* Do **not** open an issue for a problem that does not exist.
-* Do **not** open duplicate issues.
-* Do **not** open feature requests disguised as bug reports.
-* Include logs, screenshots, and steps to reproduce when reporting a legitimate issue.
-* Issues without sufficient information may be closed without response.
+### 📖 About Me
 
-## Sales & Commercial Requests
+I enjoy playing with scripts and pushing the boundaries of what software can do. Most of my work involves automation, reverse engineering, and testing the limits of various platforms. 
 
-* Do **not** contact me to buy software, services, repositories, domains, or tools.
-* Do **not** use GitHub Issues for business inquiries.
-* Do **not** use my repositories as a marketplace.
+> ⚠️ **Educational Use Disclaimer:** All tools, scripts, and repositories provided here are strictly for educational and research purposes. I am not responsible for how you use them.
 
-## Redistribution & Resale
+---
 
-* Do **not** resell my tools.
-* Do **not** repackage my tools for commercial resale.
-* Do **not** list my tools on marketplaces without explicit permission.
-* Respect the repository license and attribution requirements.
+### 📜 Community Rules & Guidelines
 
-## Editing Files
+*Please read before interacting with my repositories.*
 
-* Do **not** edit scripts directly in GitHub whenever possible.
+| 🚩 **General Rules** | 🛑 **Support & Issues** |
+| :--- | :--- |
+| • If it's working, don't touch it. | • Do not open duplicate issues. |
+| • Always make backups before changes. | • No feature requests disguised as bug reports. |
+| • Test in a dev environment first. | • Provide logs/screenshots for bug reports. |
+| • Read existing docs/issues first. | • Incomplete issues will be closed immediately. |
 
-* Download the files and edit them locally using:
+| 💼 **Commercial & Sales** | 🚫 **Redistribution** |
+| :--- | :--- |
+| • Do **not** contact me to buy software/domains. | • Do not use my repos as a marketplace. |
+| • Do not use GitHub Issues for business inquiries. | • Do not redistribute my code as your own without credit. |
 
-  * Notepad++
-  * Visual Studio Code (VS Code)
-  * Your preferred local editor
+---
 
-* Commit and test changes locally before pushing updates.
+### 🚀 Featured Projects
 
-## Development Philosophy
+*(Pin your best repositories to the top of your profile and they will show up here)*
+*   **[Project 1 Name](https://github.com/craig-morris/project-1)** - Brief description of what this script does.
+*   **[Project 2 Name](https://github.com/craig-morris/project-2)** - Brief description of what this script does.
 
-> If it's working, don't touch it.
+---
 
-Many problems are created by unnecessary changes. Make modifications only when you understand the impact and have a valid reason to do so.
-
-## Personal Contact
-
-For personal messages, contact me on Telegram:
-
-https://t.me/ONLOCKED
-
-GitHub Issues are reserved for repository-related matters only.
+<div align="center">
+  <i>Let's build something that breaks the manual.</i>
+</div>
